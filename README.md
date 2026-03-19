@@ -1,2 +1,2 @@
 Buonasera,
- provo a condividere il file dell'esercizio di oggi fatto su draw io
+il file html della repo è l'esercizio human-code svolto oggi pomeriggio su draw io.
